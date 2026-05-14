@@ -2,7 +2,7 @@
 
 > Concept-only study aid. No exam questions reproduced. Source PDF (if any) stays local + gitignored.
 
-**Skills outline:** https://learn.microsoft.com/credentials/certifications/exams/dp-750/
+**Skills outline:** https://learn.microsoft.com/credentials/browse/?terms=DP-750
 
 ## Audience
 

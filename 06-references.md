@@ -4,7 +4,7 @@
 
 ## Exam page
 
-- [DP-750 exam](https://learn.microsoft.com/credentials/certifications/exams/dp-750/)
+- [DP-750 exam](https://learn.microsoft.com/credentials/browse/?terms=DP-750)
 - [Azure Databricks Data Engineer Associate](https://learn.microsoft.com/credentials/certifications/azure-databricks-data-engineer-associate/)
 
 ## Azure Databricks docs

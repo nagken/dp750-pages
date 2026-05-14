@@ -32,7 +32,7 @@ For free, repeatable practice tailored to DP-750 see [17-copilot-quiz.md](17-cop
 
 ## When you're ready
 
-- Schedule the exam at: [https://learn.microsoft.com/credentials/certifications/exams/dp-750/](https://learn.microsoft.com/credentials/certifications/exams/dp-750/)
+- Schedule the exam at: [https://learn.microsoft.com/credentials/browse/?terms=DP-750](https://learn.microsoft.com/credentials/browse/?terms=DP-750)
 
 ---
 
